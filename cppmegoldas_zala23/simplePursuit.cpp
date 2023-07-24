@@ -99,12 +99,8 @@ double getDistance(double ranges[], double angles[]){
 		      tmp1[i - center1MinIndex] = i;
 		  
     	  }
-    
-    
-    
-    
+
     }
-    
     
 }   
 
